@@ -1,0 +1,18 @@
+$DestokResolution: min-width(1440px);
+$MobileResolution: min-width(375px);
+
+//Primary Colors
+$DarkBlue: hsl(233, 26%, 24%);
+$LimeGreen: hsl(136, 65%, 51%);
+$BrightCyan: hsl(192, 70%, 51%);
+//Neutral
+$GrayishBlue: hsl(233, 8%, 62%);
+$LightGrayisBlue: hsl(220, 16%, 96%);
+$VeryLightGray: hsl(0, 0%, 98%);
+$White: hsl(0, 0%, 100%);
+
+//Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400&display=swap");
+//FontSize
+$FontSize: 18px;
+$FontFamily: "Public Sans", sans-serif;
